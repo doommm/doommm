@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doommm
-- 👀 I’m interested in `TypeScript`, `C#`， `Vue`
+- 👀 I’m interested in `TypeScript`, `C#`, `Vue`, `React`
 - Programming by coincidence
 
 <!---
